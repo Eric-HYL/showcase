@@ -16,4 +16,4 @@ My second Data Science project. The goal was to compare the performance of diffe
 
 The script has five options of targets under the section "Select features and targets". Change the targets to see different results.
 
-In the presentation ppt, the Average $$R^2$$ Score is the average score out of seven trials with the seeds 1~7. The figures show the best trials only.
+In the presentation ppt, the Average R^2 Score is the average score out of seven trials with the seeds 1~7. The figures show the best trials only.
