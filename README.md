@@ -1,7 +1,7 @@
 # My projects
 
 
-**Building_Energy_Efficiency_Register_Analysis**
+#**Building_Energy_Efficiency_Register_Analysis**
 
 My first Data Science project. I obtained the latest Building Energy Efficiency Register dataset through CKAN API, and analysed the energy efficiency of large office buildings over Australia. In addition, I did further study in SA buildings to find out the most energy efficient one.
 In conclusion:
