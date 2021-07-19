@@ -9,6 +9,8 @@ In conclusion:
 - There is no significant difference in energy efficiency between SA large office buildings in CBD and outside CBD. However, a few buildings in the CBD consume a lot more energy per year.
 - The energy efficiency of Australian large office buildings will not have a significant change any time soon.
 
+Future Improvements: The "state_num" column that I made was not necessary.
+
 
 ## **Australian_Energy_Consumption_Prediction**
 
