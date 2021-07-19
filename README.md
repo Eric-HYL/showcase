@@ -17,3 +17,8 @@ My second Data Science project. The goal was to compare the performance of diffe
 The script has five options of targets under the section "Select features and targets". Change the targets to see different results.
 
 In the presentation ppt, the Average R^2 Score is the average score out of seven trials with the seeds 1~7. The figures show the best trials only.
+
+Future Improvements: 
+- Show the trend of energy consumption of each industry against features with area graph.
+- X axis label of the prediction graph should be clearer (instead of "sample", explain it is "year").
+- Avoid using highly correlated features together.
