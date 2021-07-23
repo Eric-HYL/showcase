@@ -1,7 +1,7 @@
 # My projects
 
 
-## **Australian_Energy_Consumption_Prediction** 19 July 2021
+## Australian_Energy_Consumption_Prediction (19 July 2021)
 
 My second Data Science project. The goal was to compare the performance of different machine learning algorithms in predicting energy consumption. The features for prediction were `Total Population`, `Population in Largest Cities`, `Rural Population`, and `GDP`. Regarding the targets, `Total Energy Consumption` and `Energy Consumption of the Top Three Industires (Manufacturing, Electricity Generation, Transport)` were selected. In addition, I tried to use all 10 industires as targets at once out of curiosity. The result was not bad, but not as good as predicting the targets one by one.
 
