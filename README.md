@@ -14,7 +14,7 @@ Future Improvements:
 - X axis label of the prediction graph should be clearer (instead of "sample", explain it is "year").
 - Avoid using highly correlated features together.
 
-## **Building_Energy_Efficiency_Register_Analysis** 2 July 2021
+## Building_Energy_Efficiency_Register_Analysis (2 July 2021)
 
 My first Data Science project. I obtained the latest Building Energy Efficiency Register dataset through CKAN API, and analysed the energy efficiency of large office buildings over Australia. In addition, I did further study in SA buildings to find out the most energy efficient one.
 In conclusion:
