@@ -1,18 +1,7 @@
 # My projects
 
 
-## **Building_Energy_Efficiency_Register_Analysis**
-
-My first Data Science project. I obtained the latest Building Energy Efficiency Register dataset through CKAN API, and analysed the energy efficiency of large office buildings over Australia. In addition, I did further study in SA buildings to find out the most energy efficient one.
-In conclusion:
-- Large office buildings over most states have similar energy efficiency. Although TAS has a significantly higher result, the sample size is too small to judge.
-- There is no significant difference in energy efficiency between SA large office buildings in CBD and outside CBD. However, a few buildings in the CBD consume a lot more energy per year.
-- The energy efficiency of Australian large office buildings will not have a significant change any time soon.
-
-Future Improvements: The "state_num" column that I made was not necessary.
-
-
-## **Australian_Energy_Consumption_Prediction**
+## **Australian_Energy_Consumption_Prediction** 19 July 2021
 
 My second Data Science project. The goal was to compare the performance of different machine learning algorithms in predicting energy consumption. The features for prediction were `Total Population`, `Population in Largest Cities`, `Rural Population`, and `GDP`. Regarding the targets, `Total Energy Consumption` and `Energy Consumption of the Top Three Industires (Manufacturing, Electricity Generation, Transport)` were selected. In addition, I tried to use all 10 industires as targets at once out of curiosity. The result was not bad, but not as good as predicting the targets one by one.
 
@@ -24,3 +13,14 @@ Future Improvements:
 - Show the trend of energy consumption of each industry against features with area graph.
 - X axis label of the prediction graph should be clearer (instead of "sample", explain it is "year").
 - Avoid using highly correlated features together.
+
+## **Building_Energy_Efficiency_Register_Analysis** 2 July 2021
+
+My first Data Science project. I obtained the latest Building Energy Efficiency Register dataset through CKAN API, and analysed the energy efficiency of large office buildings over Australia. In addition, I did further study in SA buildings to find out the most energy efficient one.
+In conclusion:
+- Large office buildings over most states have similar energy efficiency. Although TAS has a significantly higher result, the sample size is too small to judge.
+- There is no significant difference in energy efficiency between SA large office buildings in CBD and outside CBD. However, a few buildings in the CBD consume a lot more energy per year.
+- The energy efficiency of Australian large office buildings will not have a significant change any time soon.
+
+Future Improvements: The "state_num" column that I made was not necessary.
+
