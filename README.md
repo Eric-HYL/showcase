@@ -3,7 +3,7 @@
 ## Optimal_Chess_KRK-Endgame_Position (2 August 2021)
 The goal of this project is to find out the best chess endgame position for white and black. In this senario, white has a rook and king remaining, while black only has a king, and it is black's turn to move. The dataset contains data about the pieces' positions and the optimal number of moves for white to win. We used the distance between pieces and board centre as features to train different models to predict the result.
 
-In conclusion, white will win sooner if his king is near the centre and closed to black king; in contrast, black can survive longer and perhaps force a draw if black king is near the centre. Regarding model prediction, Decision Trees and other ensemble methods have similar accuracy, but the ensemble methods consume much more time to process, so ensemble method is not recommanded for this analysis.
+In conclusion, white will win sooner if white king is near the centre and closed to black king; in contrast, black can survive longer and perhaps force a draw if black king is near the centre. Regarding model prediction, Decision Trees and other ensemble methods have similar accuracy, but the ensemble methods consume much more time to process so ensemble method is not recommanded for this analysis.
 
 Future Improvements:
 - Show confusion matrix
