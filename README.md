@@ -7,7 +7,7 @@ In conclusion, white will win sooner if white king is near the centre and closed
 
 Future Improvements:
 - Show confusion matrix
-- Reduce the result digits to three places
+- Reduce the result digits to three decimal places
 
 ## Australian_Energy_Consumption_Prediction (19 July 2021)
 
