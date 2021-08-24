@@ -40,4 +40,3 @@ In conclusion:
 - The energy efficiency of Australian large office buildings will not have a significant change any time soon.
 
 Future Improvements: The "state_num" column that I made was not necessary.
-
