@@ -8,10 +8,10 @@ Since there were three relational tables recording accident, vehicle and casualt
 
 As a result of this project, we successfully answered all the business questions and provided three suggestions to protect road users. The next step of this project will be investigating pedestrians crossing facilities to improve usage rate.
 
-Tools and libraries used:
-Jupyter Notebook
-Python 3 (numpy, pandas, sqlite3, sqlalchemy, matplotlib, seaborn, time, sklearn, lightgbm)
-SQL
+Tools and libraries used:  
+Jupyter Notebook  
+Python 3 (numpy, pandas, sqlite3, sqlalchemy, matplotlib, seaborn, time, sklearn, lightgbm)  
+SQL  
 Microsoft Excel
 
 ## Optimal Chess KRK-Endgame Position (2 August 2021)
