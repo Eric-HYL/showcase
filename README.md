@@ -6,7 +6,7 @@ Data Science & AI capstone project. The objective of this project is to provide 
 
 Since there were three relational tables recording accident, vehicle and casualty details, we utilised SQL database for queries. The SQL database was created in the "Capstone_DataCleaning.ipynb" notebook. Another advantage of using SQL was that we could maintain the consistency of the input data such as attribute names. This allowed us to reuse the Exploratory Data Analysis (EDA) pipeline easily in the future.
 
-As a result of this project, we successfully answered all the business questions and provided three suggestions to protect road users. The next step of this project will be investigating pedestrians crossing facilities to improve usage rate.
+As a result of this project, we provided three possible solutions to protect road users covering Road Crossings, Speed Limits and Marketing and Communication. The next step of this project will be investigating pedestrians crossing facilities to improve usage rate.
 
 Tools and libraries used:  
 Jupyter Notebook  
