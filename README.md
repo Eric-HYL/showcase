@@ -1,4 +1,4 @@
-# Visual_Practice
+# Visual Practice
 
 Visuals created by Power BI and other tools
 
