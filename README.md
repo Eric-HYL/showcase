@@ -8,7 +8,7 @@ Visuals created by Power BI and other tools
 
 Tableau visualisation project to show the trend of avocado price and volume sold in the last five years. In addition, I compared the sales of different kind of avocados, and highlighted the states that have higher demand. In conclusion, California has the highest number of avocado sold throughout the last five years, followed by Midsouth, Los Angeles and New York. The dashboard is shared on the Tableau Public server. https://public.tableau.com/app/profile/eric3982/viz/Avocado_2020/Dashboard1?publish=yes
 
-<br/><br/><br/>
+<br/><br/>
 **Road Users Protection Improvement (20 August 2021)**
 
 Data Science & AI capstone project. The objective of this project is to provide solutions to reduce UK road accidents and casualties for the Department for Transport. In order to do that, we looked into the relationship between different factors and number of accidents / casualty severity, as well as what group of road users was more likely to get into a road accident. The dataset was provided by the Department for Transport, recorded 117536 cases with 71 attributes.
