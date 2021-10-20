@@ -7,7 +7,7 @@ Visuals created by Power BI and other tools
 **Avocado Prices 2020 (28 September 2021)**
 
 Tableau visualisation project to show the trend of avocado price and volume sold in the last five years. In addition, I compared the sales of different kind of avocados, and highlighted the states that have higher demand. In conclusion, California has the highest number of avocado sold throughout the last five years, followed by Midsouth, Los Angeles and New York. The dashboard is shared on the Tableau Public server. https://public.tableau.com/app/profile/eric3982/viz/Avocado_2020/Dashboard1?publish=yes
-
+<br>
 
 **Road Users Protection Improvement (20 August 2021)**
 
