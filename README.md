@@ -24,6 +24,7 @@ Python 3 (numpy, pandas, sqlite3, sqlalchemy, matplotlib, seaborn, time, sklearn
 SQL  
 Microsoft Excel
 
+<br/>
 
 **Optimal Chess KRK-Endgame Position (2 August 2021)**
 
@@ -35,6 +36,7 @@ Future Improvements:
 - Show confusion matrix
 - Reduce the result digits to three decimal places
 
+<br/>
 
 **Australian Energy Consumption Prediction (19 July 2021)**
 
@@ -49,6 +51,7 @@ Future Improvements:
 - X axis label of the prediction graph should be clearer (instead of "sample", explain it is "year").
 - Avoid using highly correlated features together.
 
+<br/>
 
 **Building Energy Efficiency Register Analysis (2 July 2021)**
 
