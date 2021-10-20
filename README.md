@@ -1,6 +1,6 @@
 # Visual Practice
 
-[Visuals created by Power BI and other tools](https://github.com/Eric-HYL/showcase/tree/main/Visual_Practice)
+[Retail Analysis](https://github.com/Eric-HYL/showcase/blob/main/Visual_Practice/Retail_Analysis/retail_sales_summary.pdf)
 
 # Data Science Projects
 
