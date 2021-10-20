@@ -8,6 +8,7 @@ Visuals created by Power BI and other tools
 
 Tableau visualisation project to show the trend of avocado price and volume sold in the last five years. In addition, I compared the sales of different kind of avocados, and highlighted the states that have higher demand. In conclusion, California has the highest number of avocado sold throughout the last five years, followed by Midsouth, Los Angeles and New York. The dashboard is shared on the Tableau Public server. https://public.tableau.com/app/profile/eric3982/viz/Avocado_2020/Dashboard1?publish=yes
 
+
 **Road Users Protection Improvement (20 August 2021)**
 
 Data Science & AI capstone project. The objective of this project is to provide solutions to reduce UK road accidents and casualties for the Department for Transport. In order to do that, we looked into the relationship between different factors and number of accidents / casualty severity, as well as what group of road users was more likely to get into a road accident. The dataset was provided by the Department for Transport, recorded 117536 cases with 71 attributes.
@@ -22,6 +23,7 @@ Python 3 (numpy, pandas, sqlite3, sqlalchemy, matplotlib, seaborn, time, sklearn
 SQL  
 Microsoft Excel
 
+
 **Optimal Chess KRK-Endgame Position (2 August 2021)**
 
 The goal of this project is to find out the best chess endgame position for white and black. In this scenario, white has a rook and king remaining, while black only has a king, and it is black's turn to move. The dataset contains data about the pieces' positions and the optimal number of moves for white to win. We used the distance between pieces and board centre as features to train different models to predict the result.
@@ -31,6 +33,7 @@ In conclusion, white will win sooner if white king is near the centre and closed
 Future Improvements:
 - Show confusion matrix
 - Reduce the result digits to three decimal places
+
 
 **Australian Energy Consumption Prediction (19 July 2021)**
 
@@ -44,6 +47,7 @@ Future Improvements:
 - Show the trend of energy consumption of each industry against features with area graph.
 - X axis label of the prediction graph should be clearer (instead of "sample", explain it is "year").
 - Avoid using highly correlated features together.
+
 
 **Building Energy Efficiency Register Analysis (2 July 2021)**
 
