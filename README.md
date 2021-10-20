@@ -1,4 +1,8 @@
-# My projects
+# Visual_Practice
+
+Visuals created by Power BI and other tools
+
+# Data Science Projects
 
 ## Avocado Prices 2020 (28 September 2021)
 
