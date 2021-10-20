@@ -1,6 +1,6 @@
 # Visual Practice
 
-Visuals created by Power BI and other tools
+Visuals created by Power BI and other tools  
 https://github.com/Eric-HYL/showcase/tree/main/Visual_Practice
 
 # Data Science Projects
