@@ -1,6 +1,6 @@
 # Visual Practice
 
-[Sales and Budgets (Power BI)](https://github.com/Eric-HYL/showcase/blob/main/Visual_Practice/Sales_and_Budgets/dashboards.pdf)
+[Sales and Budgets (Power BI)](https://github.com/Eric-HYL/showcase/blob/main/Visual_Practice/Sales_and_Budgets/dashboards.pdf)  
 [Retail Analysis (Power BI)](https://github.com/Eric-HYL/showcase/blob/main/Visual_Practice/Retail_Analysis/retail_sales_summary.pdf)  
 [Avocado Price Highlights and Forecast (Tableau)](https://public.tableau.com/app/profile/eric3982/viz/Avocado_2020/Dashboard1?publish=yes)  
 
